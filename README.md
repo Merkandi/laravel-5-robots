@@ -21,7 +21,7 @@ Add the package to your `composer.json`:
 ```
 {
     "require": {
-        "ellisthedev/laravel-5-robots": "~0.1.0"
+        "merkandi/laravel-5-robots": "~0.1.0"
     }
 }
 ```
